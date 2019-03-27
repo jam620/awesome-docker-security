@@ -18,3 +18,4 @@
 * docker pull citizenstig/nowasp - OWASP Mutillidae II Web Pen-Test Practice Application
 * docker pull bkimminich/juice-shop - OWASP Juice Shop
 * docker pull 21511952017vjm/jam620 - Kali con multiples scripts de pentest
+* docker pull jwilder/nginx-proxy:latest - Contenedor con Nginx como proxy reverso, útil si queremos tener multiples dominios en un solo servidor
