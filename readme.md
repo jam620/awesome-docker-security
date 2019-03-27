@@ -17,3 +17,4 @@
 * docker-compose build && docker-compose up - OWASP NodeGoat
 * docker pull citizenstig/nowasp - OWASP Mutillidae II Web Pen-Test Practice Application
 * docker pull bkimminich/juice-shop - OWASP Juice Shop
+* docker pull 21511952017vjm/jam620 - Kali con multiples scripts de pentest
